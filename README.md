@@ -1,7 +1,7 @@
 # mini-Quoridor-AI-vs.-AI
 
 **Mini Quoridor AI vs. AI**
-This repository contains a compact implementation of the Quoridor board game, in which two autonomous agents compete by navigating their pawn to the opposite side while placing walls to impede their opponent.
+This repository contains a compact implementation of the Quoridor board game by GABRIELE TROVATO, in which two autonomous agents compete by navigating their pawn to the opposite side while placing walls to impede their opponent.
 Here a video of the two AI's playing: https://www.youtube.com/watch?v=kIrv7xb_VHA
 ---
 
@@ -59,3 +59,6 @@ Each AI seeks to reach the far edge of a 5×5 grid in as few moves as possible. 
 3. Watch the two AIs compete in real time.
 
 Feel free to extend the look-ahead depth, tweak the wall-evaluation metric or replace the randomized path extractor with a purely deterministic BFS to experiment with different strategic behaviors.
+
+The Game was developed by GABRIELE TROVATO, the Studends had to develop different AI's to compete against each other.
+The AI's where developed within one day - the code had to be in one file.
